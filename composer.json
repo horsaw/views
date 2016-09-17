@@ -1,0 +1,17 @@
+{
+	"name": "horsaw/views",
+	"authors": [
+		{
+			"name": "Joro Stoyanov",
+			"email": "stoyanov.gs@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Horsaw\\Views\\": "src/Horsaw/Views/"
+		}
+	},
+	"require": {
+		"php": ">=5.4"
+	}
+}
